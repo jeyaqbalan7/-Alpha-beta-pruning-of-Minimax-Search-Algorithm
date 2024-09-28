@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:   ADHITHYARAM D    </h3>
-<h3>Register Number: 212222230008   </h3>
+<h3>Name:   Jeyabalan   </h3>
+<h3>Register Number: 212222240040   </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
